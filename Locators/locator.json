@@ -1,0 +1,11 @@
+{
+  "LoginPage": {
+    "USERNAME": ["name", "username"],
+    "PASSWORD": ["name","password"],
+    "LOGIN_BUTTON": ["xpath", "//button[@type='submit']"]
+  },
+  "ProductPage": {
+    "ADD_TO_CART_BUTTON": ["id", "add-to-cart"],
+    "PRODUCT_NAME": ["xpath", "//h1[@class='product-title']"]
+  }
+}
